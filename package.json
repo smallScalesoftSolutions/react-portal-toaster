@@ -33,6 +33,7 @@
     "html-webpack-plugin": "^3.2.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-portal-toaster": "git://github.com/smallScalesoftSolutions/react-portal-toaster.git#master",
     "style-loader": "^1.0.0",
     "url-loader": "^2.1.0",
     "webpack": "^4.39.2",
